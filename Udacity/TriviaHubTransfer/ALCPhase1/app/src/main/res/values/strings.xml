@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC Phase1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="button_1">ABOUT ALC</string>
+    <string name="description">profile_picture</string>
+    <string name="name">Fashanu Tosin</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: fashanutosin7@gmail.com</string>
+    <string name="phone">Phone Number: +2349036723177</string>
+    <string name="slack">Slack Username: @johnnerry7</string>
+</resources>
